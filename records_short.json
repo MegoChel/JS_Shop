@@ -19,7 +19,7 @@
     "free_shipping": true,
     "popularity": 10000,
     "rating": 2,
-    "id": "1696302"
+    "id": 1696302
   },
   {
     "title": "360fly - Panoramic 360° HD Video Camera - Black",
@@ -45,7 +45,7 @@
     "free_shipping": false,
     "popularity": 9999,
     "rating": 5,
-    "id": "9131042"
+    "id": 9131042
   },
   {
     "title": "3DR - Backpack for Solo - Black",
@@ -71,7 +71,7 @@
     "free_shipping": false,
     "popularity": 9998,
     "rating": 5,
-    "id": "5353024"
+    "id": 5353024
   },
   {
     "title": "3DR - Propellers for 3DR Solo Drones (2-Pack) - Black",
